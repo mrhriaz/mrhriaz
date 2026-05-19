@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Md. Riaz Hossain 👋
 
-<!--
-**mrhriaz/mrhriaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student**  
+Dhaka International University, Bangladesh
 
-Here are some ideas to get you started:
+Passionate about **Medical Image Processing**, **Computer Vision**, and **Deep Learning**. Currently conducting research on Brain Tumor detection & segmentation and Plant Leaf Disease classification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research Focus
+- Brain Tumor Classification & Segmentation
+- Tomato & Potato Leaf Disease Detection using Deep Learning
+- Planning to publish **3 Journal papers** from thesis
+
+### Currently Working On
+- Leaf Disease Classification (Tomato & Potato)
+- Building Web-based Disease Detection System
+
+### Tech Stack
+- **Languages:** Python, C, C++, Java
+- **ML/DL:** TensorFlow, Keras, PyTorch, Scikit-learn
+- **Computer Vision:** OpenCV
+- **Tools:** Git, Jupyter Notebook, Google Colab
+
+### Connect With Me
+- Email: mdriaz103198@gmail.com
+- Facebook:https://www.facebook.com/share/18rEtySAqW/?mibextid=wwXIfr
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrhriaz&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhriaz&layout=compact&theme=radical)
